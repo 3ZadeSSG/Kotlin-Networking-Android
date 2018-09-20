@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Geek Facts</string>
+    <string name="default_text">Click button to load a new fact</string>
+    <string name="loadButton">Load Fact</string>
+</resources>
