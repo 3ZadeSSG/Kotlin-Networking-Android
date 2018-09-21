@@ -5,7 +5,7 @@ In Java we need to use the AsyncTask to perform networking requests in android a
 
 
 # Video Walkthrough
-<img src = "https://raw.githubusercontent.com/manugond/Kotlin-Netowrking-Android/master/ScreenGif.gif" width="300">
+<img src = "https://raw.githubusercontent.com/manugond/Kotlin-Netowrking-Android/master/ScreenGif.gif" width="250">
 
 # References
   1. [**Artice about the JetBrain library and Kotlin.**](https://medium.com/coding-blocks/making-asynctask-obsolete-with-kotlin-5fe1d944d69)<br>
