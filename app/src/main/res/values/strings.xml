@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">Geek Facts</string>
-    <string name="default_text">Click button to load a new fact</string>
-    <string name="loadButton">Load Fact</string>
+    <string name="default_text">Fact: "You can't get a new fact if your data connection is off 🤣</string>
+    <string name="loadButton">Next Fact</string>
 </resources>
